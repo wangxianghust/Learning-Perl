@@ -1,4 +1,4 @@
 test master
 test br push
 test new t
-test rebase2
+test rebase t
